@@ -72,5 +72,10 @@ void tampilkanKeliling(LayangLayang ObjectLayang, BelahKetupat ObjectBelahKetupa
     cout << "Keliling Belah Ketupat : " << kelilingBelah << endl;
 }
 
+int main()
+{
+    LayangLayang ObjectLayang;
+    BelahKetupat ObjectBelahKetupat;
 
+    
       
