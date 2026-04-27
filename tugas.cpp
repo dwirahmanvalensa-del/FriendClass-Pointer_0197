@@ -84,4 +84,8 @@ int main()
     cout << "Luas Layang-Layang : " << ObjectLayang.hitungLuas() << endl;
     cout << "Luas Belah Ketupat : " << ObjectBelahKetupat.hitungLuas() << endl;
 
-    
+    tampilkanKeliling(ObjectLayang, ObjectBelahKetupat);
+
+    return 0;
+}
+        
