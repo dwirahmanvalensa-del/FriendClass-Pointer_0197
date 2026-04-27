@@ -77,5 +77,11 @@ int main()
     LayangLayang ObjectLayang;
     BelahKetupat ObjectBelahKetupat;
 
+    ObjectLayang.inputData();
+    ObjectBelahKetupat.inputData();
+
+    cout << "\n==== Hasil Luas ====" << endl;
+    cout << "Luas Layang-Layang : " << ObjectLayang.hitungLuas() << endl;
+    cout << "Luas Belah Ketupat : " << ObjectBelahKetupat.hitungLuas() << endl;
+
     
-      
