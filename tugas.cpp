@@ -32,3 +32,8 @@ public:
     friend class BelahKetupat;
 };
 
+class BelahKetupat
+{
+private:
+    double s, d1, d2;
+
