@@ -62,3 +62,6 @@ public:
     friend void tampilkanKeliling(LayangLayang, BelahKetupat);
 };
 
+void tampilkanKeliling(LayangLayang ObjectLayang, BelahKetupat ObjectBelahKetupat)
+{
+    
